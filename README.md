@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Milie971
 - 👀 I’m interested in learning coding and create beautiful website
-- 🌱 I’m currently learning JavaScript and Java
+- 🌱 I’m currently learning JavaScript 
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
